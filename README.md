@@ -1,5 +1,5 @@
 ## SoT2012PHP Demo Application
-This code is heavily influenced by [Dispatch](http://github.com/noodlehaus/dispatch), with added functionality for querying databases using PDO and does not require PHP 5.3
+This code is heavily inspired by [Dispatch](http://github.com/noodlehaus/dispatch), with added functionality for querying databases using PDO and does not require PHP 5.3
 
 ### LICENSE
 Copyright (C) 2012 Martin Hipp
